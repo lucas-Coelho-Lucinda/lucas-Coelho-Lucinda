@@ -49,7 +49,7 @@ Atualmente, estou aprofundando meus conhecimentos em **arquitetura Front-end, co
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" width="45" height="45" alt="React Router" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="45" height="45" alt="Vite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/radixui/radixui-original.svg" width="45" height="45" alt="Radix UI" />
+  <img src="https://cdn.simpleicons.org/radixui" width="45" height="45" alt="Radix UI" />
 </p>
 
 `React Query` · `React Hook Form` · `Zod` · `CVA` · `Axios` · `Vitest` · `Playwright`
